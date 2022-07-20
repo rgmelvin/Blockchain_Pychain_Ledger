@@ -33,3 +33,4 @@ Verify the block contents and hashes in the Streamlit drop-down menu.
 Validate the entries using the "Validate" button.
 
 ![Application Interface](App_images/App_interface_image.png)
+![With blocks added](App_images/Blocks added.png)
