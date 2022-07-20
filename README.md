@@ -32,5 +32,11 @@ Verify the block contents and hashes in the Streamlit drop-down menu.
 
 Validate the entries using the "Validate" button.
 
+# Application User Interface
 ![Application Interface](App_images/App_interface_image.png)
+
+# With Blocks Added
 ![With blocks added](App_images/Blocks_added.png)
+
+# Ledger Validated
+![Ledger Validated](App_images/Validated.png)
