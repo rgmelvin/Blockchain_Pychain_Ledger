@@ -21,6 +21,15 @@ This project utilizes Python and its libraries for coding, VS Code as writing to
 
 ## Execution
 
-Program file: 
-In the terminal, 
-  run the Streamlit application using the command: `streamlit run pychain.py`.
+Program file: pychain.py
+
+In the terminal:  run the Streamlit application using the command: `streamlit run pychain.py`.
+
+Enter values for the sender, receiver, and amount, and then click the "Add Block" button.
+Do this several times to store several blocks in the ledger.
+
+Verify the block contents and hashes in the Streamlit drop-down menu.
+
+Validate the entries using the "Validate" button.
+
+![Application Interface]
